@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="no_internet_connection">No internet Connection</string>
+    <string name="news">News</string>
+    
+    <string name="date">2020-05-04</string>
+    <string name="title">Slow-moving Commons debates the key issues of March</string>
+    <string name="article">News</string>
+    <string name="author">Alexander Galve</string>
+    <string name="errormessage">No news found. Please try again</string>
+</resources>
